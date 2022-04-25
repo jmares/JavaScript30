@@ -20,9 +20,8 @@
  * Play the sound corresponding to the key pressed
  */
  function playSound(e) {
-    // console.log(e.keyCode + " " + e.code + " " + e.altKey + " " + e.charCode + " " + e.key);
-    const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`)
-    const key = document.querySelector(`.key[data-key="${e.keyCode}"]`)
+    const audio = document.querySelector(`audio[data-key="${e.key}"]`)
+    const key = document.querySelector(`.key[data-key="${e.key}"]`)
     if (!audio) return // stop function from running
     audio.currentTime = 0; // rewind to the start, so you don't have to wait for the sound to finish;
     audio.play();
