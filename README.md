@@ -20,3 +20,8 @@ Looking up the CSS properties `transition`, `transform`, `text-shadow`, and `box
 
 **Total Time**: close to 2 hours.
 
+## 02. JS and CSS Clock
+
+**Day 2:** 26/04/2022
+
+- tutorial, code along, put js and css in separate files, gave the hands different colors
