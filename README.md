@@ -36,5 +36,8 @@ The JavaScript is pretty straightforward. It's the CSS that I find the hardest a
 **Day 3:** 27/04/2022
 
 - tutorial, code along
+- moved `<style>` from `<body>` to `<head>`
 
-**Total Time**: 
+Third coding challenge and I am learning more CSS than JS. ;-)
+
+**Total Time**: half an hour
