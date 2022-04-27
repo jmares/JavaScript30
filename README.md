@@ -28,3 +28,13 @@ Looking up the CSS properties `transition`, `transform`, `text-shadow`, and `box
 - reorganized and documented code
 
 The JavaScript is pretty straightforward. It's the CSS that I find the hardest as I had never worked with transformations before. Stop the course and have an in depth look at the more advanced CSS stuff like transformations, or accept the CSS stuff as given and focus on the Javascript? Focus on the JS!
+
+**Total Time**: almost one hour
+
+## 03. CSS Variables
+
+**Day 3:** 27/04/2022
+
+- tutorial, code along
+
+**Total Time**: 
