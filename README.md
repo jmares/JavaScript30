@@ -41,3 +41,13 @@ The JavaScript is pretty straightforward. It's the CSS that I find the hardest a
 Third coding challenge and I am learning more CSS than JS. ;-)
 
 **Total Time**: half an hour
+
+## 04. Array Cardio Day 1
+
+**Day 4:** 28/04/2022
+
+- tutorial, code along
+
+Hard to do when you're not very familiar with the array functions `map` and `reduce`, but good reference material.
+
+**Total Time**: almost 2 hours
