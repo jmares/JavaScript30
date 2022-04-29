@@ -51,3 +51,5 @@ Third coding challenge and I am learning more CSS than JS. ;-)
 Hard to do when you're not very familiar with the array functions `map` and `reduce`, but good reference material.
 
 **Total Time**: almost 2 hours
+
+I am going to leave it at 4 days. Not because it isn't interesting, but because I have currently no use for Javascript and I have better things to do with my time.
